@@ -10,3 +10,12 @@ function somar(a, b){
 }
 
 somar(8, 15);
+
+
+
+function apresentar(nome= "Vistitande"){
+    console.log(`Olá, ${nome}`);
+
+}
+apresentar();
+apresentar("Vitor");

@@ -1,4 +1,4 @@
-const produto = {
+let produto = {
     nome: "Mouse",
     preco: 50
 };
